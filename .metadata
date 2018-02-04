@@ -1,0 +1,11 @@
+{
+  "author" : "Joshua Madoc",
+  "description" : "",
+  "friendlyName" : "Dyingstar Lightbound",
+  "link" : "",
+  "name" : "Dyingstar Lightbound",
+  "path" : ".",
+  "steamContentId" : "",
+  "includes": ["shieldBars"],
+  "version" : "0.1"
+}

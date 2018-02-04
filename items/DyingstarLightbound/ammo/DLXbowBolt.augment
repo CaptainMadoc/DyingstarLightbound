@@ -1,0 +1,18 @@
+{
+	"itemName" : "DLXbowBolt",
+	"rarity" : "common",
+	"category" : "Ammo",
+	"price" : 0,
+	"maxStack" : 10000,
+	"inventoryIcon" : "/items/DyingstarLightbound/sprite/shells/DLXbowBolt.png",
+	"description" : "",
+	"shortdescription" : "Tower Runner Bolt",
+	
+	"gunConfig" : {	
+		"compatibleAmmo" 	: [ "DLXbowBolt" , "DLXbowBolt" ],
+		"projectileConfig" 	: {"speed" : 75, "power" : 5},
+		"projectileType" 	: "bullet-2"
+	},
+	
+	"scripts" : [ "ammo.lua" ]
+}
